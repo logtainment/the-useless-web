@@ -28,7 +28,6 @@ function uselessWebButton( button, popup ) {
 		['http://www.koalastothemax.com/',                            false],
 		['http://www.everydayim.com/',                                false],
 		['http://www.leduchamp.com/',                                 true],
-		['http://grandpanoclothes.com/',                              false],
 		['http://www.haneke.net/',                                    false],
 		['http://r33b.net/',                                          true],
 		['http://randomcolour.com/',                                  false],
